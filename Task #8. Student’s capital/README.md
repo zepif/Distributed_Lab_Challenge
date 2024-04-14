@@ -1,11 +1,11 @@
 # Task #8. Student’s capital
 
-This is a console application that solves the Pinatas task. Also was created scripts to generate tests to validate the
+This is a console application that solves the Student’s capital task. Also was created scripts to generate tests to validate the
 solution.
 
 ### Structure
 
-- `./sols/sol.cpp` : Main solution. In this solution was used dynamic programming.
+- `./sols/sol.cpp` : Main solution. In this solution was used priority queue.
 
 The solution algorithm is to first sort all laptops by their price. Then buy the most profitable laptops until we can't buy the i-th one. If we can buy any laptop and we have bought less than n, then we just buy the remaining most profitable ones. The asymtotics of this solution is O(n * log(n)) in time, since we add n times to the priority queue
 
