@@ -1,0 +1,7 @@
+asyncio
+aiohttp
+regex
+beautifulsoup4
+pycopy-urllib.parse
+threaded
+typing
