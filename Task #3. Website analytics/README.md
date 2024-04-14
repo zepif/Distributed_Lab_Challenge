@@ -45,3 +45,6 @@ To generate new data:
 python gen.py
 ```
 
+### Time Spent
+
+I spent about 2 hours solving this problem
