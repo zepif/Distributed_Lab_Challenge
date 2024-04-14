@@ -4,6 +4,8 @@ This is a console application that searches for the Wikipedia page on Adolf Hitl
 
 To optimise the program for multiple runs, was written a program that records the path from a random Wikipedia page to Hitler's page in a mini database. However, such paths are not always the shortest, but they speed up the programme a lot.
 
+On average it takes about 20 seconds to find a path of length 3, the maximum was 100 seconds. Unfortunately I couldn't find a link to make the path longer than 3, so I can't say how long it will take to find Hitler's page
+
 ### Structure
 
 - `main.py` : Main script which finds way to the Hitler page. To find the path was used bfs. In our case, the
