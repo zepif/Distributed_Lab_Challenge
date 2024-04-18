@@ -66,7 +66,7 @@ https://github.com/zepif/Distributed_Lab_Challenge.git
 cd 'Task #7. Pinatas'
 ```
 
-Use `bash g++ -o sol ...` to compile one of the solutions. Then use other bash scripts as described.
+Use `g++ -o sol ...` to compile one of the solutions. Then use other bash scripts as described.
 
 ### Time Spent
 
